@@ -1,4 +1,4 @@
-class Ssedit < Formula
+class Httpu < Formula
   desc "the terminal-first http client"
   homepage "https://github.com/hazbo/httpu"
   url "https://github.com/hazbo/httpu/releases/download/0.0.1/httpu-0.0.1.tar.gz"
