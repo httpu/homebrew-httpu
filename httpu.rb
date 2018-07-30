@@ -1,8 +1,8 @@
 class Httpu < Formula
   desc "the terminal-first http client"
   homepage "https://github.com/hazbo/httpu"
-  url "https://github.com/hazbo/httpu/releases/download/0.0.1/httpu-0.0.1.tar.gz"
-  sha256 "8615dfe5b3f1b511b5b5477cfd71e64df4b63d805aa0d387a59e558be55dcaaa"
+  url "https://github.com/hazbo/httpu/releases/download/0.0.2/httpu.tar-0.0.2.gz"
+  sha256 "0912ae0d8101c066e5bb3d85fd85119bb636d8ad80535e182c900625c6cfe8af"
 
   bottle :unneeded
 
